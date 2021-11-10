@@ -2,4 +2,6 @@
 
 This is just a page...
 
-Can anyone tell me how to add an icon? I've searched for so long...
+想做一个类似于博客的东西，不知道该怎么做。
+
+[尝试链接到一个新文件](\sourses\notes.md)
